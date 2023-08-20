@@ -12,9 +12,9 @@ Python ⭐⭐⭐⭐⭐
 
 Microsoft Azure ⭐⭐⭐⭐⭐
 
-Linux ⭐⭐⭐⭐
+Databricks ⭐⭐⭐⭐⭐
 
-Databricks ⭐⭐⭐⭐
+Linux ⭐⭐⭐⭐
 
 Scala ⭐⭐⭐
 
